@@ -1,0 +1,1 @@
+managers.skilltree:reset_specializations()
