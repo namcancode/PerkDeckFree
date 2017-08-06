@@ -100,9 +100,9 @@ or string_id == "menu_deck43_3_desc" and "Giam ##15%## targeted khi dung gan don
 or string_id == "menu_deck43_5" and "An tron"
 or string_id == "menu_deck43_5_desc" and "Tang ##1%## dodge cu moi ##3## diem risk duoi ##35## (Max 10 diem toi da) "
 or string_id == "menu_deck43_7" and "Tang Hinh"
-or string_id == "menu_deck43_7_desc" and  "Ke dich se it tan cong ban hon ##15%##"
+or string_id == "menu_deck43_7_desc" and  "Ke dich se it tan cong ban hon ##15%##. \n\n Tang ##100%## damage Melee."
 or string_id == "menu_deck43_9" and "Vo Danh"
-or string_id == "menu_deck43_9_desc" and  "Ke dich se it tan cong ban hon ##20%##.\n\n Tang ##30%## toc do di chuyen sau khi cuu ##10s##. \n\n Tang ##100%## damage Melee. \n\n Neu khong mat mau hoac giap trong ##4s## ban se nhan duoc ##35%## crit trong ##6s##."
+or string_id == "menu_deck43_9_desc" and  "Ke dich se it tan cong ban hon ##20%##.\n\n Tang ##30%## toc do di chuyen sau khi cuu ##10s##. \n\n Neu khong mat mau hoac giap trong ##4s## ban se nhan duoc ##35%## crit trong ##6s##."
 
 or string_id == "menu_deckall_2" and "Helmet Popper"
 or string_id == "menu_deckall_2_desc" and "Tang sat thuong Headshot len ##+25%##."
