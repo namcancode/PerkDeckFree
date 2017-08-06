@@ -16,7 +16,7 @@
 	"keybinds" : 
 [
 	{
-            "keybind_id": "VK_F8",
+            "keybind_id": "VK_F5",
             "name": "Reset Perk",
             "description": "Reset Perk",
             "script_path": "ResetPerk.lua",
