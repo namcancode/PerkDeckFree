@@ -480,4 +480,291 @@ table.insert(self.specializations,
 				desc_id = "menu_deck11_9_desc"
 			}
 			})
+table.insert(self.specializations,
+		{
+			name_id = "menu_st_spec_005", -- ROGUE SHOTGUN IZBEST
+			desc_id = "menu_st_spec_005_desc",
+			{
+				upgrades = {
+					"player_passive_dodge_chance_1"
+				},
+				cost = 200,
+				icon_xy = {1, 2},
+				name_id = "menu_deck41_1",
+				desc_id = "menu_deck41_1_desc"
+			},			
+			{
+				upgrades = {
+				"weapon_passive_headshot_damage_multiplier"
+				},
+				cost = 300 ,
+				icon_xy = {1, 0},
+       			name_id = "menu_deckall_2",
+       			desc_id = "menu_deckall_2_desc"
+			},
+			{
+				upgrades = {
+					"player_camouflage_multiplier"
+				},
+				cost = 400,
+				icon_xy = {4, 2},
+				name_id = "menu_deck41_3",
+				desc_id = "menu_deck41_3_desc"
+			},
+			{
+				upgrades = {
+				"passive_player_xp_multiplier",
+				"player_passive_suspicion_bonus",
+				"player_passive_armor_movement_penalty_multiplier"
+				},
+				cost = 600,
+				icon_xy = {3, 0},
+				name_id = "menu_deckall_4",
+       			desc_id = "menu_deckall_4_desc"
+			},
+			{
+				upgrades = {
+					"player_passive_dodge_chance_2"
+				},
+				cost = 1000,
+				icon_xy = {2, 2},
+				name_id = "menu_deck41_5",
+				desc_id = "menu_deck41_5_desc"
+			},
+
+			{
+				upgrades = {
+				"armor_kit",
+				"player_pick_up_ammo_multiplier"
+				},
+				cost = 1600,
+				icon_xy = {5, 0},
+				name_id = "menu_deckall_6",
+        		desc_id = "menu_deckall_6_desc"
+			},
+			{
+				upgrades = {
+					"player_passive_dodge_chance_3"
+				},
+				cost = 2400,
+				icon_xy = {3, 2},
+				name_id = "menu_deck41_7",
+				desc_id = "menu_deck41_7_desc"
+			},
+			{
+				upgrades = {
+				"weapon_passive_damage_multiplier",
+				"passive_doctor_bag_interaction_speed_multiplier"
+				},
+				cost = 3200,
+				icon_xy = {7, 0},
+				name_id = "menu_deckall_8",
+       			desc_id = "menu_deckall_8_desc"
+			},
+			{
+				upgrades = {
+					"shotgun_recoil_index_addend",
+					"player_passive_loot_drop_multiplier",
+					"shotgun_damage_multiplier_1",
+					"extra_ammo_multiplier1"
+					
+				},
+				cost = 4000,
+				icon_xy = {5, 2},
+				name_id = "menu_deck41_9",
+				desc_id = "menu_deck41_9_desc"
+			}
+			})
+table.insert(self.specializations,
+		{
+			name_id = "menu_st_spec_006", -- ROGUE AKIMBO IZBEST
+			desc_id = "menu_st_spec_006_desc",
+			{
+				upgrades = {
+					"player_passive_dodge_chance_1"
+				},
+				cost = 200,
+				icon_xy = {1, 2},
+				name_id = "menu_deck42_1",
+				desc_id = "menu_deck42_1_desc"
+			},			
+			{
+				upgrades = {
+				"weapon_passive_headshot_damage_multiplier"
+				},
+				cost = 300 ,
+				icon_xy = {1, 0},
+       			name_id = "menu_deckall_2",
+       			desc_id = "menu_deckall_2_desc"
+			},
+			{
+				upgrades = {
+					"player_camouflage_multiplier"
+				},
+				cost = 400,
+				icon_xy = {4, 2},
+				name_id = "menu_deck42_3",
+				desc_id = "menu_deck42_3_desc"
+			},
+			{
+				upgrades = {
+				"passive_player_xp_multiplier",
+				"player_passive_suspicion_bonus",
+				"player_passive_armor_movement_penalty_multiplier"
+				},
+				cost = 600,
+				icon_xy = {3, 0},
+				name_id = "menu_deckall_4",
+       			desc_id = "menu_deckall_4_desc"
+			},
+			{
+				upgrades = {
+					"player_passive_dodge_chance_2"
+				},
+				cost = 1000,
+				icon_xy = {2, 2},
+				name_id = "menu_deck42_5",
+				desc_id = "menu_deck42_5_desc"
+			},
+
+			{
+				upgrades = {
+				"armor_kit",
+				"player_pick_up_ammo_multiplier"
+				},
+				cost = 1600,
+				icon_xy = {5, 0},
+				name_id = "menu_deckall_6",
+        		desc_id = "menu_deckall_6_desc"
+			},
+			{
+				upgrades = {
+					"player_passive_dodge_chance_3"
+				},
+				cost = 2400,
+				icon_xy = {3, 2},
+				name_id = "menu_deck42_7",
+				desc_id = "menu_deck42_7_desc"
+			},
+			{
+				upgrades = {
+				"weapon_passive_damage_multiplier",
+				"passive_doctor_bag_interaction_speed_multiplier"
+				},
+				cost = 3200,
+				icon_xy = {7, 0},
+				name_id = "menu_deckall_8",
+       			desc_id = "menu_deckall_8_desc"
+			},
+			{
+				upgrades = {
+					"akimbo_recoil_index_addend_4",
+					"player_pick_up_ammo_multiplier",
+					"akimbo_extra_ammo_multiplier_3"
+					
+				},
+				cost = 4000,
+				icon_xy = {5, 2},
+				name_id = "menu_deck42_9",
+				desc_id = "menu_deck42_9_desc"
+			}
+			})
+table.insert(self.specializations,
+		{
+			name_id = "menu_st_spec_007", -- ASSASIN CREAD
+			desc_id = "menu_st_spec_007_desc",
+			{
+				upgrades = {
+					"player_passive_dodge_chance_1"
+				},
+				cost = 200,
+				icon_xy = {1, 2},
+				name_id = "menu_deck43_1",
+				desc_id = "menu_deck43_1_desc"
+			},			
+			{
+				upgrades = {
+				"weapon_passive_headshot_damage_multiplier"
+				},
+				cost = 300 ,
+				icon_xy = {1, 0},
+       			name_id = "menu_deckall_2",
+       			desc_id = "menu_deckall_2_desc"
+			},
+			{
+				upgrades = {
+					"player_stamina_regen_multiplier",
+					"player_camouflage_multiplier"
+				},
+				cost = 400,
+				icon_xy = {4, 2},
+				name_id = "menu_deck43_3",
+				desc_id = "menu_deck43_3_desc"
+			},
+			{
+				upgrades = {
+				"passive_player_xp_multiplier",
+				"player_passive_suspicion_bonus",
+				"player_passive_armor_movement_penalty_multiplier"
+				},
+				cost = 600,
+				icon_xy = {3, 0},
+				name_id = "menu_deckall_4",
+       			desc_id = "menu_deckall_4_desc"
+			},
+			{
+				upgrades = {
+					"player_detection_risk_add_dodge_chance_1"
+				},
+				cost = 1000,
+				icon_xy = {2, 2},
+				name_id = "menu_deck43_5",
+				desc_id = "menu_deck43_5_desc"
+			},
+
+			{
+				upgrades = {
+				"armor_kit",
+				"player_pick_up_ammo_multiplier"
+				},
+				cost = 1600,
+				icon_xy = {5, 0},
+				name_id = "menu_deckall_6",
+        		desc_id = "menu_deckall_6_desc"
+			},
+			{
+				upgrades = {
+						"player_camouflage_bonus_1"
+	
+				},
+				cost = 2400,
+				icon_xy = {3, 2},
+				name_id = "menu_deck43_7",
+				desc_id = "menu_deck43_7_desc"
+			},
+			{
+				upgrades = {
+				"weapon_passive_damage_multiplier",
+				"passive_doctor_bag_interaction_speed_multiplier"
+				},
+				cost = 3200,
+				icon_xy = {7, 0},
+				name_id = "menu_deckall_8",
+       			desc_id = "menu_deckall_8_desc"
+			},
+			{
+				upgrades = {
+					"player_camouflage_bonus_2",
+					"player_temp_increased_movement_speed_1",
+					"player_non_special_melee_multiplier",
+					"player_melee_damage_multiplier",
+					"player_unseen_increased_crit_chance_1"
+					
+				},
+				cost = 4000,
+				icon_xy = {5, 2},
+				name_id = "menu_deck43_9",
+				desc_id = "menu_deck43_9_desc"
+			}
+			})
 end
