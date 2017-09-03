@@ -2,6 +2,9 @@
 	"name"	:   "Perk Decks Free",
 	"description"	:   "Phien ban DLC cho nguoi dung Free",
 	"author"   :   "NamBoss",
+	"blt_version" : 2,
+	"image" : "nam.png",
+	"color" : "0.52 1 0",
 	"updates" : [
     {
         "revision" : 1,
