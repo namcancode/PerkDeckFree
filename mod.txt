@@ -4,11 +4,11 @@
 	"author"   :   "NamBoss",
 	"blt_version" : 2,
 	"image" : "nam.png",
-	"color" : "0.52 1 0",
+	"color" : "0.4 0.1 1",
 	"updates" : [
     {
-        "revision" : 1,
-        "identifier" : "NamBoss",
+        "revision" : 1.1,
+        "identifier" : "Perkdeckfree",
     }
 	],
 	"hooks"	:   [
@@ -19,12 +19,12 @@
 	"keybinds" : 
 [
 	{
-            "keybind_id": "VK_F8",
+            "keybind_id": "ResetPerk",
             "name": "Reset Perk",
             "description": "Reset Perk",
             "script_path": "ResetPerk.lua",
-            "run_in_menu": true,
-            "run_in_game": true,
+            "run_in_menu": false,
+            "run_in_game": false,
             "localized": false
 	}
 ]
