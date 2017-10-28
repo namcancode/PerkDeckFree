@@ -113,13 +113,13 @@ or string_id == "menu_deckall_6_desc" and "Mo khoa tui giap, cho phep ban thay g
 or string_id == "menu_deckall_8" and "Fast and Furious"
 or string_id == "menu_deckall_8_desc" and "Tang them ##5%## sat thuong. Khong ap dung voi vu khi Melee Damage, Grenade Launchers, Bows, Crossbows va the HRL-7 Rocket Launcher. Su dung doctor bags nhanh hon ##20%##."
 
-or string_id == "menu_st_spec_19" and "Burglar"
-or string_id == "menu_st_spec_20" and "Anarchist"
-or string_id == "menu_st_spec_21" and "Sociopath"
-or string_id == "menu_st_spec_22" and "Yakuza"
-or string_id == "menu_st_spec_23" and "Grinder"
-or string_id == "menu_st_spec_24" and "Shotgun Izdabest"
-or string_id == "menu_st_spec_25" and "Akimbo Izdabest"
-or string_id == "menu_st_spec_26" and "Assassin's Creed"
+or string_id == "menu_st_spec_20" and "Burglar"
+or string_id == "menu_st_spec_21" and "Anarchist"
+or string_id == "menu_st_spec_22" and "Sociopath"
+or string_id == "menu_st_spec_23" and "Yakuza"
+or string_id == "menu_st_spec_24" and "Grinder"
+or string_id == "menu_st_spec_25" and "Shotgun Izdabest"
+or string_id == "menu_st_spec_26" and "Akimbo Izdabest"
+or string_id == "menu_st_spec_27" and "Assassin's Creed"
 or text_original(self, string_id, ...)
 end
