@@ -6,7 +6,7 @@
 	"image" : "nam.png",
 	"color" : "0.4 0.1 1",
 	"contact" : "http://mod.nguyennam.me",
-	"revision" : 1.3,
+	"revision" : 1.4,
 	"updates" : [
     {
          "identifier" : "Perkdeckfree"
