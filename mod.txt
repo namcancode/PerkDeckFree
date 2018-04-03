@@ -1,12 +1,12 @@
 {
 	"name"	:   "Perk Decks Free",
-	"description"	:   "Phien ban DLC cho nguoi dung Free",
+	"description"	:   "DLC Version for Free users",
 	"author"   :   "NamBoss",
 	"blt_version" : 2,
 	"image" : "nam.png",
 	"color" : "0.4 0.1 1",
-	"contact" : "http://mod.nguyennam.me",
-	"revision" : 1.4,
+	"contact" : "http://mod.nguyennam.ml",
+	"revision" : 1.5,
 	"updates" : [
     {
          "identifier" : "Perkdeckfree"
